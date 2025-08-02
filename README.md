@@ -82,19 +82,6 @@ N670 G71 P680 Q710 U0.4 W0.2 F.3
 
 ---
 
-## ✅ **Código Completo**
-
-```gcode
-N10 G53 G00 X100 Z100 T00
-N20 T0101
-N30 G96 S200 M4
-N40 G92 S22000
-...
-N1210 M30
-```
-
----
-
 ## 🛠️ **Principais Recursos Utilizados**
 
 * **Ciclos fixos**: G71 (desbaste), G70 (acabamento)
