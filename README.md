@@ -102,6 +102,6 @@ Este projeto foi validado no **SwanSoft CNC** com controle **FANUC 0i-T**, inclu
 
 ---
 
-O código G completo utilizado neste projeto está disponível neste repositório. Acesse o [usinagem-dois-lados.gcode](usinagem-dois-lados.gcode) para mais detalhes.
+O código G completo utilizado neste projeto está disponível neste repositório. Acesse o arquivo [usinagem-dois-lados.gcode](usinagem-dois-lados.gcode) para mais detalhes.
 
 
