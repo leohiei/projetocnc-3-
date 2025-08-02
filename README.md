@@ -1,7 +1,3 @@
-Aqui está um modelo de **README.md** para você colocar no GitHub, documentando o projeto com base no **código CNC**, **desenho** e **trajetória**:
-
----
-
 # 🛠️ Projeto CNC – Usinagem de Peça com Dois Lados
 
 Este projeto demonstra a usinagem completa de uma peça simétrica em torno CNC, utilizando **ciclos de desbaste (G71)** e **acabamento (G70)**, incluindo raios, chanfros e operações internas e externas.
@@ -97,8 +93,6 @@ N40 G92 S22000
 N1210 M30
 ```
 
-*(Veja o arquivo `usinagem-dois-lados.nc` para o código completo.)*
-
 ---
 
 ## 🛠️ **Principais Recursos Utilizados**
@@ -121,9 +115,6 @@ Este projeto foi validado no **SwanSoft CNC** com controle **FANUC 0i-T**, inclu
 
 ---
 
-### 🔗 **Arquivos incluídos**
+O código G completo utilizado neste projeto está disponível neste repositório. Acesse o [usinagem-dois-lados.gcode](usinagem-dois-lados.gcode) para mais detalhes.
 
-* `usinagem-dois-lados.nc` → Código CNC completo
-* `usinagem-dois-lados-desenho.png` → Desenho técnico
-* `usinagem-dois-lados-tracado.png` → Caminho da ferramenta
 
