@@ -1,4 +1,10 @@
 # 🛠️ Projeto CNC – Usinagem de Peça com Dois Lados
+**Autor:** Leonardo N. Duarte  
+📧 nevesduartel@gmail.com 
+
+---
+
+## 🎯 Objetivo
 
 Este projeto demonstra a usinagem completa de uma peça simétrica em torno CNC, utilizando **ciclos de desbaste (G71)** e **acabamento (G70)**, incluindo raios, chanfros e operações internas e externas.
 
@@ -94,11 +100,11 @@ N670 G71 P680 Q710 U0.4 W0.2 F.3
 
 ## 💻 **Simulação**
 
-Este projeto foi validado no **SwanSoft CNC** com controle **FANUC 0i-T**, incluindo:
+Este projeto foi validado no **SwanSoft CNC** com controle **FANUC 0i-T**
 
-* Verificação de colisões
-* Teste de compensação de raio
-* Ajuste de perfil com base no desenho técnico
+![Demonstração parte 1](usinagem-dois-lados-01.gif)
+
+![Demonstração parte 2](usinagem-dois-lados-02.gif)
 
 ---
 
