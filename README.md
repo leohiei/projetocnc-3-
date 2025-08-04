@@ -91,7 +91,7 @@ N330 G40
 ```gcode
 N400 G00 X70 Z-18
 N410 M8
-N110 G75 R1
+N110 G75 R2
 N120 G75 X40 P2000 Q4000 F0.1
 ; deslocamentos para completar largura do canal
 ```
