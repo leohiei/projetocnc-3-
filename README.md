@@ -1,4 +1,4 @@
-# 🛠️ Projeto CNC – Usinagem de Dois Lados com Ciclos G71, G72, G75 e G70
+# 🛠️ Projeto CNC – Usinagem de Dois Lados com Ciclos G71, G70 e G75
 
 **Autor:** Leonardo N. Duarte  
 📧 nevesduartel@gmail.com 
